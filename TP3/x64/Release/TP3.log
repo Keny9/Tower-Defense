@@ -1,0 +1,24 @@
+﻿  Game.cpp
+Game.cpp(148): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Game.cpp(159): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Game.cpp(165): warning C4305: '-=' : troncation de 'double' à 'float'
+Game.cpp(275): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  laser.cpp
+laser.cpp(27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+laser.cpp(25): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+laser.cpp(43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+laser.cpp(57): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+laser.cpp(58): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+laser.cpp(61): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  main.cpp
+  MainMenu.cpp
+  peon.cpp
+peon.cpp(15): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Skeleton.cpp
+  tour.cpp
+tour.cpp(34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  All 685 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  TP3.vcxproj -> D:\Cegep\Automne2018\Structure de donnee\TowerDefense\TP3\x64\Release\TowerDefense.exe
+  TP3.vcxproj -> D:\Cegep\Automne2018\Structure de donnee\TowerDefense\TP3\x64\Release\TowerDefense.pdb (Full PDB)

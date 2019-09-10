@@ -1,0 +1,7 @@
+﻿  Game.cpp
+d:\cegep\automne2018\structure de donnee\towerdefense\tp3\tp3\game.cpp(148): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\cegep\automne2018\structure de donnee\towerdefense\tp3\tp3\game.cpp(159): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\cegep\automne2018\structure de donnee\towerdefense\tp3\tp3\game.cpp(165): warning C4305: '-=' : troncation de 'double' à 'float'
+d:\cegep\automne2018\structure de donnee\towerdefense\tp3\tp3\game.cpp(275): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  TP3.vcxproj -> D:\Cegep\Automne2018\Structure de donnee\TowerDefense\TP3\x64\Debug\TowerDefense.exe
+  TP3.vcxproj -> D:\Cegep\Automne2018\Structure de donnee\TowerDefense\TP3\x64\Debug\TowerDefense.pdb (Full PDB)
